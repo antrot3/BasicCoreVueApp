@@ -1,0 +1,5 @@
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL2\bin\Debug\netstandard2.0\DAL2.deps.json
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL2\bin\Debug\netstandard2.0\DAL2.dll
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL2\obj\Debug\netstandard2.0\DAL2.csprojAssemblyReference.cache
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL2\obj\Debug\netstandard2.0\DAL2.AssemblyInfoInputs.cache
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL2\obj\Debug\netstandard2.0\DAL2.AssemblyInfo.cs

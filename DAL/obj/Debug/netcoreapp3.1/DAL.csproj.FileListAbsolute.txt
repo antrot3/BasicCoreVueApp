@@ -1,0 +1,11 @@
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\obj\Debug\netcoreapp3.1\DAL.Properties.Resources.resources
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.GenerateResource.cache
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\arota\source\repos\netcore-vuejs\BasicCoreVueApp\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
